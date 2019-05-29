@@ -5,7 +5,7 @@
             "use": "@now/static"
         },
         {
-            "src": "date.js",
+            "src": "/**.js",
             "use": "@now/node"
         }
     ]
