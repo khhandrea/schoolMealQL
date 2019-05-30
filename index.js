@@ -1,4 +1,5 @@
-import { GraphQLServer } from "graphql-yoga";
+//import { GraphQLServer } from "graphql-yoga";
+const { ApolloServer } = require('apollo-server-micro');
 import resolvers from "./graphql/resolvers";
 
 
